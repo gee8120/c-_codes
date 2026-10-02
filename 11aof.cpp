@@ -8,7 +8,7 @@ int main() {
     cout << "Sum (+): " << (num1 + num2) << endl;
     cout << "Subtraction (-): " << (num1 - num2) << endl;
     cout << "Multiplication (*): " << (num1 * num2) << endl;
-    cout <<"Division (/): "<<(num1/num2)<<endl;
-    cout <<"Modulus (%): "<<(int(num1) % int(num2))<<endl;
+    cout <<"devision (/): "<<(num1/num2)<<endl;
+    cout <<"modulus (%): "<<(int(num1)%int(num2))<<endl;
     return 0;
 }
