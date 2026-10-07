@@ -7,9 +7,11 @@ int main() {
     cin >> nu;
     if (nu > 0) {
         cout << "The number is positive." << endl;
-    } else if (nu < 0) {
+    }
+    else if (nu < 0) {
         cout << "The number is negative." << endl;
-    } else {
+    }
+    else {
         cout << "The number is zero." << endl;
     }
 }

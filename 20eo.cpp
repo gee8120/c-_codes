@@ -6,7 +6,8 @@ int main() {
     cin >> num;
     if (num % 2 == 0) {
         cout << "The number is even." << endl;
-    } else {
+    }
+    else {
         cout << "The number is odd." << endl;
     }
 }
